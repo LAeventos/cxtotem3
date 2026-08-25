@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #12002b;
+}
+body {
+  background-image: url("123.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
